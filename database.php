@@ -1,7 +1,7 @@
 <!--database connection-->
 <?php
 
-$host='localhost';
+$host='freedb.tech';
 $username='freedbtech_anonchat';
 $user_pass='chatanon';
 $database_in_use='freedbtech_anonchat';
